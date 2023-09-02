@@ -36,6 +36,17 @@ nav li{
     color: white;
     font-size: 20px;
 }
+#btn-contact{
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    border: 1px solid #FD6E0A;
+    color: #FD6E0A;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 30px;
+    text-align: center;
+}
 /* banner  styles */
 .banner{
     margin: 0 200px;
